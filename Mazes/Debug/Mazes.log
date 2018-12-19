@@ -1,3 +1,15 @@
-﻿  Main.cpp
-  Mazes.vcxproj -> D:\Old Lap\All Projects\C++\C++ Learn\Mazes\Mazes\Debug\Mazes.exe
-  Mazes.vcxproj -> D:\Old Lap\All Projects\C++\C++ Learn\Mazes\Mazes\Debug\Mazes.pdb (Partial PDB)
+﻿  RecursiveBacktracker.cpp
+d:\old lap\all projects\c++\c++ learn\mazes\mazes\recursivebacktracker.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Node.cpp
+  MazeGen.cpp
+  Maze.cpp
+  Main.cpp
+  Game.cpp
+  Cell.cpp
+  AStar.cpp
+d:\old lap\all projects\c++\c++ learn\mazes\mazes\astar.cpp(28): warning C4018: '<': signed/unsigned mismatch
+d:\old lap\all projects\c++\c++ learn\mazes\mazes\astar.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\old lap\all projects\c++\c++ learn\mazes\mazes\astar.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Mazes.vcxproj -> D:\Old Lap\All Projects\C++\C++ Learn\Mazes\Debug\Mazes.exe
+  Mazes.vcxproj -> D:\Old Lap\All Projects\C++\C++ Learn\Mazes\Debug\Mazes.pdb (Partial PDB)

@@ -4,7 +4,7 @@ Game* game;
 
 int width = 1080;
 int height = 720;
-int cellSize = 25;
+int cellSize = 5;
 bool typeWxH = false;
 MazeGen::MazeType mazeType = MazeGen::RECURSIVE_BACKTRACKER;
 MazeGen::SolveType solveType = MazeGen::NONE;
